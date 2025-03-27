@@ -97,8 +97,8 @@ print("statinga position and ending position of the words in the list are:", my_
 first_two_digits = 74  
 last_two_digits = 39  
 
-# Dummy input values based on SID digits (customize as needed)
-revenue = 10000 + first_two_digits * 100     # Example Revenue
+# input the values
+revenue = 10000 + first_two_digits * 100  
 operating_profit = 2500 + last_two_digits * 10
 num_customers = 200 + first_two_digits
 lost_customers = 15 + last_two_digits
